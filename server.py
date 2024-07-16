@@ -4,8 +4,8 @@
 # Puedes instalar mohist después de instalar forge desde el menú de gestionar
 # Puedes instalar paper después de instalar vanilla desde el menú de gestionar
 # Puedes instalar purpur después de instalar fabric desde el menú de gestionar
+# Regiones de ngrok1
 
-# Regiones de ngrok
 # Código          Lugar
 #-----------      ---------------------------
 # ap	          Asia / Pacífico (Singapore)
@@ -16,7 +16,6 @@
 # sa		      Sudamérica (São Paulo)
 # us		      Estados unidos (Ohio)
 # us-cal-1	      Estados unidos (California)
-
 
 
 
