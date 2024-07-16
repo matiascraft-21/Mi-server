@@ -54,3 +54,7 @@
 [16Jul2024 19:00:20.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [matiascorrea2112: Set own game mode to Creative Mode]
 [16Jul2024 19:00:49.795] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: matiascorrea2112 lost connection: Disconnected
 [16Jul2024 19:00:49.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: matiascorrea2112 left the game
+[16Jul2024 19:08:22.648] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: matiascorrea2112[/100.71.48.115:55527] logged in with entity id 571 at (-32.306420810014714, 74.0, 35.097300494194265)
+[16Jul2024 19:08:22.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: matiascorrea2112 joined the game
+[16Jul2024 19:08:37.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [matiascorrea2112: Set the time to 1000]
+[16Jul2024 19:10:01.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [matiascorrea2112: Gave 1 [Command Block] to matiascorrea2112]
