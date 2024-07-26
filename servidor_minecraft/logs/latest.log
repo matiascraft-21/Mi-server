@@ -1,23 +1,23 @@
-[16Jul2024 20:32:37.008] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.2.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
-[16Jul2024 20:32:37.012] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.3 by Microsoft; OS Linux arch amd64 version 6.5.0-1022-azure
-[16Jul2024 20:32:37.355] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[16Jul2024 20:32:37.402] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Mi-server/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[16Jul2024 20:32:37.751] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Mi-server/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.2.0/fmlcore-1.20.1-47.2.0.jar is missing mods.toml file
-[16Jul2024 20:32:37.752] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Mi-server/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.2.0/javafmllanguage-1.20.1-47.2.0.jar is missing mods.toml file
-[16Jul2024 20:32:37.753] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Mi-server/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.2.0/lowcodelanguage-1.20.1-47.2.0.jar is missing mods.toml file
-[16Jul2024 20:32:37.754] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Mi-server/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.2.0/mclanguage-1.20.1-47.2.0.jar is missing mods.toml file
-[16Jul2024 20:32:37.934] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 2 dependencies adding them to mods collection
-[16Jul2024 20:32:37.988] [main/ERROR] [net.minecraftforge.fml.loading.ModSorter/LOADING]: Missing or unsupported mandatory dependencies:
+[26Jul2024 20:23:22.746] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.2.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[26Jul2024 20:23:22.751] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.3 by Microsoft; OS Linux arch amd64 version 6.5.0-1022-azure
+[26Jul2024 20:23:23.215] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[26Jul2024 20:23:23.277] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Mi-server/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[26Jul2024 20:23:23.744] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Mi-server/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.2.0/fmlcore-1.20.1-47.2.0.jar is missing mods.toml file
+[26Jul2024 20:23:23.746] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Mi-server/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.2.0/javafmllanguage-1.20.1-47.2.0.jar is missing mods.toml file
+[26Jul2024 20:23:23.749] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Mi-server/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.2.0/lowcodelanguage-1.20.1-47.2.0.jar is missing mods.toml file
+[26Jul2024 20:23:23.751] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Mi-server/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.2.0/mclanguage-1.20.1-47.2.0.jar is missing mods.toml file
+[26Jul2024 20:23:23.939] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 2 dependencies adding them to mods collection
+[26Jul2024 20:23:24.003] [main/ERROR] [net.minecraftforge.fml.loading.ModSorter/LOADING]: Missing or unsupported mandatory dependencies:
+	Mod ID: 'caelus', Requested by: 'elytraslot', Expected range: '[3.1.0,)', Actual version: '[MISSING]'
 	Mod ID: 'curios', Requested by: 'elytraslot', Expected range: '[5.2.0-beta,)', Actual version: '[MISSING]'
-	Mod ID: 'sophisticatedcore', Requested by: 'sophisticatedbackpacks', Expected range: '[0.6.17.+,)', Actual version: '[MISSING]'
 	Mod ID: 'balm', Requested by: 'waystones', Expected range: '[7.2.0,)', Actual version: '[MISSING]'
 	Mod ID: 'framework', Requested by: 'goblintraders', Expected range: '[0.6.13,)', Actual version: '[MISSING]'
-	Mod ID: 'caelus', Requested by: 'elytraslot', Expected range: '[3.1.0,)', Actual version: '[MISSING]'
-[16Jul2024 20:32:39.569] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[16Jul2024 20:32:39.596] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
-[16Jul2024 20:32:44.961] [main/FATAL] [net.minecraftforge.fml.ModLoader/CORE]: Error during pre-loading phase
-net.minecraftforge.fml.ModLoadingException: Mod §eelytraslot§r requires §6curios§r §o5.2.0-beta or above§r
-§7Currently, §6curios§r§7 is §o§nnot installed
+	Mod ID: 'sophisticatedcore', Requested by: 'sophisticatedbackpacks', Expected range: '[0.6.17.+,)', Actual version: '[MISSING]'
+[26Jul2024 20:23:26.495] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[26Jul2024 20:23:26.559] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[26Jul2024 20:23:37.486] [main/FATAL] [net.minecraftforge.fml.ModLoader/CORE]: Error during pre-loading phase
+net.minecraftforge.fml.ModLoadingException: Mod §eelytraslot§r requires §6caelus§r §o3.1.0 or above§r
+§7Currently, §6caelus§r§7 is §o§nnot installed
 	at net.minecraftforge.fml.ModLoadingException.lambda$fromEarlyException$0(ModLoadingException.java:50) ~[fmlcore-1.20.1-47.2.0.jar%23138!/:?]
 	at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197) ~[?:?]
 	at java.util.AbstractList$RandomAccessSpliterator.forEachRemaining(AbstractList.java:722) ~[?:?]
@@ -51,19 +51,19 @@ net.minecraftforge.fml.ModLoadingException: Mod §eelytraslot§r requires §6cur
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[16Jul2024 20:32:45.034] [main/FATAL] [net.minecraftforge.server.loading.ServerModLoader/]: Crash report saved to ./crash-reports/crash-2024-07-16_20.32.45-fml.txt
-[16Jul2024 20:32:45.038] [main/ERROR] [net.minecraft.server.Main/FATAL]: Failed to start the minecraft server
+[26Jul2024 20:23:37.609] [main/FATAL] [net.minecraftforge.server.loading.ServerModLoader/]: Crash report saved to ./crash-reports/crash-2024-07-26_20.23.37-fml.txt
+[26Jul2024 20:23:37.622] [main/ERROR] [net.minecraft.server.Main/FATAL]: Failed to start the minecraft server
 net.minecraftforge.fml.LoadingFailedException: Loading errors encountered: [
+	Mod §eelytraslot§r requires §6caelus§r §o3.1.0 or above§r
+§7Currently, §6caelus§r§7 is §o§nnot installed,
 	Mod §eelytraslot§r requires §6curios§r §o5.2.0-beta or above§r
 §7Currently, §6curios§r§7 is §o§nnot installed,
-	Mod §esophisticatedbackpacks§r requires §6sophisticatedcore§r §o0.6.17.+ or above§r
-§7Currently, §6sophisticatedcore§r§7 is §o§nnot installed,
 	Mod §ewaystones§r requires §6balm§r §o7.2.0 or above§r
 §7Currently, §6balm§r§7 is §o§nnot installed,
 	Mod §egoblintraders§r requires §6framework§r §o0.6.13 or above§r
 §7Currently, §6framework§r§7 is §o§nnot installed,
-	Mod §eelytraslot§r requires §6caelus§r §o3.1.0 or above§r
-§7Currently, §6caelus§r§7 is §o§nnot installed
+	Mod §esophisticatedbackpacks§r requires §6sophisticatedcore§r §o0.6.17.+ or above§r
+§7Currently, §6sophisticatedcore§r§7 is §o§nnot installed
 ]
 	at net.minecraftforge.fml.ModLoader.gatherAndInitializeMods(ModLoader.java:149) ~[fmlcore-1.20.1-47.2.0.jar%23138!/:?]
 	at net.minecraftforge.server.loading.ServerModLoader.load(ServerModLoader.java:30) ~[forge-1.20.1-47.2.0-universal.jar%23142!/:?]
